@@ -1,2 +1,2 @@
-# terri-bio.github.io
+# terrabiotech.github.io
 My website
